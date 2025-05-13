@@ -55,7 +55,7 @@ TODO.md
 
 # Ignore temp test file (Used during developement only.)
 ./tests/.temp_test.dart
-**/*.g.dart
-**/*.freezed.dart
+# **/*.g.dart
+# **/*.freezed.dart
 .vscode/*
 doc/*
